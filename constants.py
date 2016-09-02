@@ -1,0 +1,5 @@
+LOSE = -1
+TIE = 0
+WIN = 1
+UNDECIDED = 2
+
